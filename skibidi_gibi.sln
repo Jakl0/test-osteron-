@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skibidi_gibi", "skibidi_gibi\skibidi_gibi.csproj", "{FDC41276-9D66-42D4-9670-B1EEDDAC5A06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweter", "sweter\sweter.csproj", "{6B98FD5F-E40B-403F-AED4-0315E4AEE648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FDC41276-9D66-42D4-9670-B1EEDDAC5A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC41276-9D66-42D4-9670-B1EEDDAC5A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC41276-9D66-42D4-9670-B1EEDDAC5A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B98FD5F-E40B-403F-AED4-0315E4AEE648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B98FD5F-E40B-403F-AED4-0315E4AEE648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B98FD5F-E40B-403F-AED4-0315E4AEE648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B98FD5F-E40B-403F-AED4-0315E4AEE648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
